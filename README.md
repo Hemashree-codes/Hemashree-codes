@@ -48,6 +48,58 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD-LINKEDIN-URL)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=100&section=footer" width="100%" alt=""/>
+
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemashree-codes/Hemashree-codes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemashree-codes/Hemashree-codes/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Hemashree-codes/Hemashree-codes/output/github-snake.svg" />
+</picture>
+
+![Profile views](https://komarev.com/ghpvc/?username=Hemashree-codes&label=Profile%20views&color=6366f1&style=flat-square)
+
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemashree-codes&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hemashree-codes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://streak-stats.demolab.com/?user=Hemashree-codes&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<a href="https://github.com/Hemashree-codes/Pratham-Chikitse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hemashree-codes&repo=Pratham-Chikitse&theme=tokyonight&hide_border=true" alt="Pratham-Chikitse" />
+</a>
+
+
 I'm an Electronics & Communication Engineering graduate (2026)** who turned a love for building things into building for the web. I make clean, responsive interfaces with React and JavaScript, and I'm now leveling up on Python backends and APIs so I can ship complete products, not just front ends.
 
 📍 Karnataka, India · 🌍 **Open to remote roles and freelance projects
