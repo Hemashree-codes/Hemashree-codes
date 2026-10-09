@@ -9,6 +9,14 @@
 
 ![Open to work](https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-brightgreen?style=for-the-badge)
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,c,cpp,git,github,vscode" alt="Tech stack" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+</p>
+
 I'm an Electronics & Communication Engineering graduate (2026)** who turned a love for building things into building for the web. I make clean, responsive interfaces with React and JavaScript, and I'm now leveling up on Python backends and APIs so I can ship complete products, not just front ends.
 
 📍 Karnataka, India · 🌍 **Open to remote roles and freelance projects
