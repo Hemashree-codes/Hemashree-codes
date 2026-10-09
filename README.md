@@ -3,152 +3,60 @@
 
 <div align="center">
   <a href="https://github.com/Hemashree-codes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Building+responsive+web+apps;React+%2B+JavaScript+developer;Learning+Python+%2B+APIs+%2B+Backend;Open+to+remote+roles+%26+freelance" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Building+responsive+web+apps;React+%2B+JavaScript+developer;Learning+Python+%2B+Backend;Open+to+remote+roles+%26+freelance" alt="Typing animation"/>
   </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-brightgreen?style=for-the-badge" alt="Open to remote roles and freelance"/>
 </div>
 
-![Open to work](https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-brightgreen?style=for-the-badge)
+# Hi, I'm Hemashree!
+
+I'm an Electronics and Communication Engineering graduate who enjoys building useful web applications. I work with HTML, CSS, JavaScript, and React, and I'm developing my Python backend skills.
+
+I'm open to suitable entry-level software development opportunities, remote roles, and freelance projects.
+
+## Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,c,cpp,git,github,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,c,cpp,git,github,vscode" alt="HTML, CSS, JavaScript, React, Python, C, C++, Git, GitHub and VS Code"/>
 </p>
+
 <p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 </p>
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/Hemashree-codes/Pratham-Chikitse">
-        <img src="assets/pratham.png" alt="Pratham-Chikitse" width="100%"/>
-      </a>
-      <br/><b>🩺 Pratham-Chikitse</b>
-      <br/>Bilingual first-aid guide (English + Kannada)
-      <br/><a href="LIVE-DEMO-LINK">Live demo</a> · <a href="https://github.com/Hemashree-codes/Pratham-Chikitse">Code</a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/Hemashree-codes/Rock-Paper-Scissors">
-        <img src="assets/rps.png" alt="Rock Paper Scissors" width="100%"/>
-      </a>
-      <br/><b>🎮 Rock-Paper-Scissors</b>
-      <br/>Best-of-5 game with animations and sound
-      <br/><a href="LIVE-DEMO-LINK">Live demo</a> · <a href="https://github.com/Hemashree-codes/Rock-Paper-Scissors">Code</a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/Hemashree-codes/expense-tracker">
-        <img src="assets/expense.png" alt="Expense Tracker" width="100%"/>
-      </a>
-      <br/><b>💸 Expense Tracker</b>
-      <br/>Track and review your spending
-      <br/><a href="LIVE-DEMO-LINK">Live demo</a> · <a href="https://github.com/Hemashree-codes/expense-tracker">Code</a>
-    </td>
-  </tr>
-</table>
+## Projects
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD-LINKEDIN-URL)
+### 🩺 Pratham-Chikitse
+A bilingual first-aid guide in English and Kannada.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=100&section=footer" width="100%" alt=""/>
+[View source code](https://github.com/Hemashree-codes/Pratham-Chikitse)
 
-name: Generate snake
+### 🎮 Rock-Paper-Scissors
+An interactive Best-of-5 game with score and round tracking.
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
+[View source code](https://github.com/Hemashree-codes/Rock-Paper-Scissors)
 
-permissions:
-  contents: write
+### 💸 Expense Tracker
+A web app for recording income and expenses, calculating balances, searching transactions, and visualizing totals.
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+[View source code](https://github.com/Hemashree-codes/expense-tracker) · [Live demo](https://hemashree-codes.github.io/expense-tracker/)
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+## Currently Learning
 
-          <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemashree-codes/Hemashree-codes/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemashree-codes/Hemashree-codes/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Hemashree-codes/Hemashree-codes/output/github-snake.svg" />
-</picture>
+- Python backend development and APIs
+- Connecting applications to databases
+- Building responsive and accessible interfaces
+- Improving my development workflow with Git and GitHub
 
-![Profile views](https://komarev.com/ghpvc/?username=Hemashree-codes&label=Profile%20views&color=6366f1&style=flat-square)
+## Let's Connect
 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemashree-codes&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hemashree-codes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com/?user=Hemashree-codes&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<a href="https://github.com/Hemashree-codes/Pratham-Chikitse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hemashree-codes&repo=Pratham-Chikitse&theme=tokyonight&hide_border=true" alt="Pratham-Chikitse" />
-</a>
-
-
-I'm an Electronics & Communication Engineering graduate (2026)** who turned a love for building things into building for the web. I make clean, responsive interfaces with React and JavaScript, and I'm now leveling up on Python backends and APIs so I can ship complete products, not just front ends.
-
-📍 Karnataka, India · 🌍 **Open to remote roles and freelance projects
+- [GitHub](https://github.com/Hemashree-codes)
+- [LinkedIn](https://www.linkedin.com/in/hemashree-naik-bb59a730b)
+- Email: Replace this line with your professional email address.
 
 ---
-
-## What I can help with
-
-- Responsive websites and landing pages that work on any screen
-- Interactive web apps in React and vanilla JavaScript
-- Dashboards and data visuals with Chart.js
-- Turning a rough idea into something people can actually click through
-
-## Tech I work with
-
-**Frontend:** HTML5 · CSS3 · JavaScript · React.js
-**Languages:** Python · C · C++
-**Database:** SQL
-**Tools:** Git · GitHub · VS Code
-**Libraries:** Chart.js
-
----
-
-## Projects I'm proudest of
-
-### 🩺 [Pratham-Chikitse](https://github.com/Hemashree-codes/Pratham-Chikitse)
-A first-aid emergency guide with step-by-step instructions for snake bites, burns, heart attacks, choking, and fractures, available in **English and Kannada**. I built it because in an emergency, clear instructions in your own language matter. 
-
-### 🎮 [Rock-Paper-Scissors](https://github.com/Hemashree-codes/Rock-Paper-Scissors)
-A Best-of-5 game with score and round tracking, animations, and sound effects.
-### 💸 [Expense Tracker](https://github.com/Hemashree-codes/expense-tracker)
-A responsive tracker for logging and reviewing spending, built with HTML, CSS, and JavaScript.
-More in my [repositories](https://github.com/Hemashree-codes?tab=repositories).
-
----
-
-## What I'm working on now
-
-- 🐍 Learning **Python full-stack development**: backend logic, REST APIs, and connecting them to a database
-- 🔧 Adding a backend to Pratham-Chikitse, so it can do more than serve static pages
-- 📚 Getting stronger at SQL, Git workflows, and writing code others can read
-
----
-
-## Let's talk
-
-If you have a project, a role, or just a question, I'd love to hear from you.
-
-📧 [your-email@example.com](hemashreeynaik@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/hemashree-naik-bb59a730b)
 
 *Always learning, always building.*
+
