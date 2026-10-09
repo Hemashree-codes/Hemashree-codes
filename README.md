@@ -54,7 +54,7 @@ A web app for recording income and expenses, calculating balances, searching tra
 
 - [GitHub](https://github.com/Hemashree-codes)
 - [LinkedIn](https://www.linkedin.com/in/hemashree-naik-bb59a730b)
-- Email: Replace this line with your professional email address.
+- Email: hemashreeynaik@gmail.com
 
 ---
 
