@@ -7,6 +7,7 @@
   </a>
 </div>
 
+![Open to work](https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-brightgreen?style=for-the-badge)
 
 I'm an Electronics & Communication Engineering graduate (2026)** who turned a love for building things into building for the web. I make clean, responsive interfaces with React and JavaScript, and I'm now leveling up on Python backends and APIs so I can ship complete products, not just front ends.
 
