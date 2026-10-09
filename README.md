@@ -1,4 +1,6 @@
-# Hi, I'm Hemashree 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hemashree&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Graduate%20%C2%B7%20Frontend%20Developer%20%C2%B7%20Learning%20Python%20Backend&descAlignY=58&descSize=18" width="100%" alt="Hemashree banner"/>
+
 
 I'm an Electronics & Communication Engineering graduate (2026)** who turned a love for building things into building for the web. I make clean, responsive interfaces with React and JavaScript, and I'm now leveling up on Python backends and APIs so I can ship complete products, not just front ends.
 
