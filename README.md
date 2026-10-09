@@ -17,6 +17,35 @@
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
 </p>
 
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/Hemashree-codes/Pratham-Chikitse">
+        <img src="assets/pratham.png" alt="Pratham-Chikitse" width="100%"/>
+      </a>
+      <br/><b>🩺 Pratham-Chikitse</b>
+      <br/>Bilingual first-aid guide (English + Kannada)
+      <br/><a href="LIVE-DEMO-LINK">Live demo</a> · <a href="https://github.com/Hemashree-codes/Pratham-Chikitse">Code</a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Hemashree-codes/Rock-Paper-Scissors">
+        <img src="assets/rps.png" alt="Rock Paper Scissors" width="100%"/>
+      </a>
+      <br/><b>🎮 Rock-Paper-Scissors</b>
+      <br/>Best-of-5 game with animations and sound
+      <br/><a href="LIVE-DEMO-LINK">Live demo</a> · <a href="https://github.com/Hemashree-codes/Rock-Paper-Scissors">Code</a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Hemashree-codes/expense-tracker">
+        <img src="assets/expense.png" alt="Expense Tracker" width="100%"/>
+      </a>
+      <br/><b>💸 Expense Tracker</b>
+      <br/>Track and review your spending
+      <br/><a href="LIVE-DEMO-LINK">Live demo</a> · <a href="https://github.com/Hemashree-codes/expense-tracker">Code</a>
+    </td>
+  </tr>
+</table>
+
 I'm an Electronics & Communication Engineering graduate (2026)** who turned a love for building things into building for the web. I make clean, responsive interfaces with React and JavaScript, and I'm now leveling up on Python backends and APIs so I can ship complete products, not just front ends.
 
 📍 Karnataka, India · 🌍 **Open to remote roles and freelance projects
