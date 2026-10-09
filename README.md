@@ -46,6 +46,8 @@
   </tr>
 </table>
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD-LINKEDIN-URL)
 I'm an Electronics & Communication Engineering graduate (2026)** who turned a love for building things into building for the web. I make clean, responsive interfaces with React and JavaScript, and I'm now leveling up on Python backends and APIs so I can ship complete products, not just front ends.
 
 📍 Karnataka, India · 🌍 **Open to remote roles and freelance projects
